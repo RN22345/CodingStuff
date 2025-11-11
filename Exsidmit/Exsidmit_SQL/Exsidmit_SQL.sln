@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Exsidmit_SQL", "Exsidmit_SQL.ssmssqlproj", "{E47F093D-78CE-ABAC-3607-D283195186CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47F093D-78CE-ABAC-3607-D283195186CD}.Default|Default.ActiveCfg = Default
+		{EA1A0581-0AB2-49C1-8163-B899A8DFCBEF}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {031985DE-6EAD-45EA-9801-F81EF55C7C97}
+	EndGlobalSection
+EndGlobal

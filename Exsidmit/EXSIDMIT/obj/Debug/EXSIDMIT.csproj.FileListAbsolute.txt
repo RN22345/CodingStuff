@@ -1,0 +1,13 @@
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\bin\Debug\EXSIDMIT.exe.config
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\bin\Debug\EXSIDMIT.exe
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\bin\Debug\EXSIDMIT.pdb
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.csproj.AssemblyReference.cache
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.form_login.resources
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.mainform.resources
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.Properties.Resources.resources
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.registerpage.resources
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.csproj.GenerateResource.cache
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.csproj.CoreCompileInputs.cache
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.exe
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.pdb
+D:\admin\Documents\CODING STUFF\c#\Exsidmit\EXSIDMIT\obj\Debug\EXSIDMIT.exe.config
